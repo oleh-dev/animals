@@ -1,5 +1,5 @@
 {
-    "name": "lab5/animals",
+    "name": "oleh-dev/animals",
     "type": "library",
     "description": "Faker is a PHP library that generates fake data for you.",
     "keywords": ["faker", "fixtures", "data"],
