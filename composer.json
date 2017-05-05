@@ -1,0 +1,25 @@
+{
+    "name": "lab5/animals",
+    "type": "library",
+    "description": "Faker is a PHP library that generates fake data for you.",
+    "keywords": ["faker", "fixtures", "data"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "François Zaninotto"
+        }
+    ],
+    "require": {
+        "php": "^5.3.3|^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Animals\\": "src/Animals/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.6.0"
+        }
+    }
+}
