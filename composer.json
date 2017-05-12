@@ -17,10 +17,5 @@
         "psr-4": {
             "Animals\\": "src/Animals/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.6.0"
-        }
     }
 }
