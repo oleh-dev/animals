@@ -3,6 +3,6 @@
 	
 	class Dog extends BaseAnimal {
 	    function says() {
-			echo 'Cat '.$this->name.' says ruff<br/>';
+			echo 'Dog '.$this->name.' says ruff<br/>';
 		}
 	}

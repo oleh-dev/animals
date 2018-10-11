@@ -1,7 +1,7 @@
 {
     "name": "oleh-dev/animals",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Faker is a PHP library that generates fake data for you.",
     "keywords": ["faker", "fixtures", "data"],
     "license": "MIT",
